@@ -18,20 +18,29 @@
 ![save h4 json tflite resnete](https://user-images.githubusercontent.com/64590037/147456994-48bc9c37-55c9-472c-af91-1d02497633db.png)
 
 # DEPLOY SEMENTARA 
+
 MobileNet
+
 ![Screenshot (341)](https://user-images.githubusercontent.com/64590037/147490296-d0c36ac8-7fac-42f8-af42-8b754252cbb0.png) 
+
 ResNet
+
 ![Screenshot (342)](https://user-images.githubusercontent.com/64590037/147490337-5bd448c1-7000-4e59-b56e-9133c5b92046.png)
 
 # DEPLOY FIX BISMILLAH
-![Screenshot (343)](https://user-images.githubusercontent.com/64590037/147495953-d0c4cee7-b47d-425e-8ee6-a767941c4f83.png)
-![Screenshot (344)](https://user-images.githubusercontent.com/64590037/147495954-30251510-2844-45df-b602-cccd7514e93e.png)
-![Screenshot (345)](https://user-images.githubusercontent.com/64590037/147495957-303e852c-a1c6-40da-ada7-4b8e88856d3b.png)
 
-ERROR MODEL RESNET
-![Screenshot (346)](https://user-images.githubusercontent.com/64590037/147495961-5e79b34c-dc59-42cf-99df-b745e44a2e45.png)
-![Screenshot (347)](https://user-images.githubusercontent.com/64590037/147495962-dd43fbe1-924a-441d-ac2f-61e3f31a5303.png)
+TAMPILAN DEPAN AWAL
+![Screenshot (343)](https://user-images.githubusercontent.com/64590037/147496231-26118463-3ec3-48c4-913b-d35abc55e924.png)
+![Screenshot (346)](https://user-images.githubusercontent.com/64590037/147496287-b90a1aa8-0120-44c8-b041-1b28abf6e70c.png)
+![Screenshot (345)](https://user-images.githubusercontent.com/64590037/147496300-6b81b5ce-1664-435d-b45f-5a408d8229f1.png)
+
+![Screenshot (344)](https://user-images.githubusercontent.com/64590037/147496254-3ae7506f-6ba5-4613-898a-5f0bcbdc3b9f.png)
+
+MODEL MOBILENET
+![Screenshot (349)](https://user-images.githubusercontent.com/64590037/147496469-f86b632c-ac85-4814-b953-2a534b1943e5.png)
+![Screenshot (348)](https://user-images.githubusercontent.com/64590037/147496466-0e44863d-a630-44eb-b518-59ab91720936.png)
+
+MODEL RESNTE ERROR
+![Screenshot (344)](https://user-images.githubusercontent.com/64590037/147496483-44d5596c-fcb9-4645-898c-f2514dda8fbb.png)
 
 
-![Screenshot (348)](https://user-images.githubusercontent.com/64590037/147495966-635fc092-888b-4123-94f3-a4faf6cdbfe0.png)
-![Screenshot (349)](https://user-images.githubusercontent.com/64590037/147495967-9adec578-ee85-4e60-a785-9c05ac129144.png)
