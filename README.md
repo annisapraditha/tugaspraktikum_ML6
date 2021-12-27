@@ -27,7 +27,11 @@ ResNet
 ![Screenshot (343)](https://user-images.githubusercontent.com/64590037/147495953-d0c4cee7-b47d-425e-8ee6-a767941c4f83.png)
 ![Screenshot (344)](https://user-images.githubusercontent.com/64590037/147495954-30251510-2844-45df-b602-cccd7514e93e.png)
 ![Screenshot (345)](https://user-images.githubusercontent.com/64590037/147495957-303e852c-a1c6-40da-ada7-4b8e88856d3b.png)
+
+ERROR MODEL RESNET
 ![Screenshot (346)](https://user-images.githubusercontent.com/64590037/147495961-5e79b34c-dc59-42cf-99df-b745e44a2e45.png)
 ![Screenshot (347)](https://user-images.githubusercontent.com/64590037/147495962-dd43fbe1-924a-441d-ac2f-61e3f31a5303.png)
+
+
 ![Screenshot (348)](https://user-images.githubusercontent.com/64590037/147495966-635fc092-888b-4123-94f3-a4faf6cdbfe0.png)
 ![Screenshot (349)](https://user-images.githubusercontent.com/64590037/147495967-9adec578-ee85-4e60-a785-9c05ac129144.png)
