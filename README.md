@@ -16,3 +16,9 @@
 ![loss plot resnet](https://user-images.githubusercontent.com/64590037/147456990-5d53707e-4125-423c-b5f6-e495a26c100f.png)
 ![model resnet](https://user-images.githubusercontent.com/64590037/147456991-b747152b-6e3c-430f-b717-ebdb4e02c6c2.png)
 ![save h4 json tflite resnete](https://user-images.githubusercontent.com/64590037/147456994-48bc9c37-55c9-472c-af91-1d02497633db.png)
+
+# DEPLOY SEMENTARA 
+MobileNet
+![Screenshot (341)](https://user-images.githubusercontent.com/64590037/147490296-d0c36ac8-7fac-42f8-af42-8b754252cbb0.png) 
+ResNet
+![Screenshot (342)](https://user-images.githubusercontent.com/64590037/147490337-5bd448c1-7000-4e59-b56e-9133c5b92046.png)
