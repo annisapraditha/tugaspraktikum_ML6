@@ -1,5 +1,6 @@
 # tugaspraktikum_ML6
 
+# MOBILENET
 ![model mobilenet](https://user-images.githubusercontent.com/64590037/147457037-756771ef-ad14-49ec-be30-a96ee5d471b9.png)
 ![save h5 json tflite mobilenet](https://user-images.githubusercontent.com/64590037/147457040-3c3daf97-e34f-408e-9a59-52fd31658288.png)
 ![time mobilenet](https://user-images.githubusercontent.com/64590037/147457042-b4cbfd74-8e8d-42d0-8a34-ce00a86efbbe.png)
@@ -8,7 +9,7 @@
 ![loss dan acc mobilenet](https://user-images.githubusercontent.com/64590037/147457048-9bb1657e-90b8-46bb-bdee-dd1b31ad54ea.png)
 ![loss plot mobilenet](https://user-images.githubusercontent.com/64590037/147457049-03bc6acd-5087-46f7-bfd7-d94ed1d0a6e4.png)
 
-
+# RESNET
 ![acc plit resnet](https://user-images.githubusercontent.com/64590037/147456986-5de0100f-77a8-4e8e-9c12-3c3b9cc9b07b.png)
 ![epochs resnet](https://user-images.githubusercontent.com/64590037/147456988-033a8c20-4c4d-4b5e-93b8-19b3723db4c6.png)
 ![loss dan acc resnet](https://user-images.githubusercontent.com/64590037/147456989-62bb40ea-395d-48ce-a639-0cbf556bc372.png)
